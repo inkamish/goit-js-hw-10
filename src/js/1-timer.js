@@ -28,7 +28,7 @@ const options = {
         position: 'topRight',
         title: 'Error',
         message: 'Please choose a date in the future',
-        backgroundColor: '#59A10D',
+        backgroundColor: '#EF4040',
         messageColor: '#FFFFFF',
         titleColor: '#ffffff',
       });
